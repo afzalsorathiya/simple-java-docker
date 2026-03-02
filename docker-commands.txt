@@ -1,0 +1,6 @@
+docker images
+docker ps -a
+docker ps
+docker delete <container-id>
+docker rmi image-name
+docker build -t docker-app .
